@@ -16,4 +16,4 @@ What I did:
 
 4-In Tableau, I clicked 'Extract' and then opened the master file.  About an hour later, Tableau had processed all the the data into a Hyper file, and I was ready to play with Tableau, creating worksheets, dashboards and storybooks.  
 
-Upon trying to make the 84 million lines associated with all the NYC Rider DB available on the Tableau Public I was informed that I was limited to 15 million lines, so the Public display of feasible.  
+Upon trying to make the 84 million lines associated with all the NYC Rider DB available on the Tableau Public I was informed that I was limited to 15 million lines, so the Public display of all the data is not feasible with Tableau Public.  
