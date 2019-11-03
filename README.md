@@ -15,3 +15,5 @@ What I did:
 3-Use EM Editor to combine all CSV files into a single master file.  Could have been done with Python easily enough, but EM Editor is a good tool to use for this type of thing.  There are many ways to combine data files including from the command line.(Before doing that I did lots of things the hard way, extracting subsets, linking files and such before I realized that part of what makes Tableau so successful is that it makes much of what I did transparent, and I did not have to do anything to preprocess that data. )
 
 4-In Tableau, I clicked 'Extract' and then opened the master file.  About an hour later, Tableau had processed all the the data into a Hyper file, and I was ready to play with Tableau, creating worksheets, dashboards and storybooks.  
+
+Upon trying to make the 84 million lines associated with all the NYC Rider DB available on the Tableau Public I was informed that I was limited to 15 million lines, so the Public display of feasible.  
